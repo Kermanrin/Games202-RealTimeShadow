@@ -3,16 +3,9 @@
 ## Usage
 
 ### For Visual Studio Code
-Install plugin `Live Sever` and run with `index.html` directly
+Install plugin `Live Sever` or `Five Sever` and run with `index.html` directly
 
-### For Node.js users
-To install:
-```
-npm install http-server -g
-```
-To run(from `index.html` directory):
-```
-http-server . -p 8000
+
 ```
 
 ## In-web operation
